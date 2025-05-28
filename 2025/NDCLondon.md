@@ -5,6 +5,47 @@
 
 ### Notes
 
+* **People are afraid of AI for the Wrong reasons**:
+  * Because they think it is smart.
+  * **But no, it isn't!**
+  * It's artificial.
+  * It's a parrot.
+
+
+* **94% of the internet is not factfull**:
+  * Do the Socrates Method.
+
+* **The Socrates Method**:
+  * Ask a lot of questions;
+  * Ask further;
+  * Be intrigued;
+
+* **The Curious vs the Uncurious**:
+  * **The Curious**:
+    * The Socrates Method;
+    * Brainstorm;
+    * Deep conversations;
+
+  * **The Incurious**:
+    * Ask a simple question;
+
+* **Small Language Models**:
+    * **LM Studio**:
+        * Load Language Models locally;
+        * Ollama (Meta);
+        * Phi (Microsoft);
+        * App/Software tool
+    * **The answer for**:
+        * Privacy;
+        * Climate change;
+        * Connectivity Issues;
+
+> "Blazor, Smart Components, SLM's & Smart Past to improve accessibility"
+> — DDTry
+
+> "TinaCMS"
+> — DDTry, DDFollow
+
 ## Develop a Second Brain
 ### _Presented by Michelle Bertaina
 
