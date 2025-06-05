@@ -71,6 +71,8 @@
   * Push when you want to publish, finished something;
   * Generate a changelog;
 
+* **Custom Instructions**:
+  * Custom instructions for a changelog;
   
 
 > "Use code snippets for markdown."
