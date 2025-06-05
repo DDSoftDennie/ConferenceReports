@@ -57,6 +57,28 @@
 
 ### Notes
 
+* **VSCode Copilot**:
+  * Custom Instructions (!!);
+  * Styles & specs;
+  * Copilot in terminal;
+  * Copilot edits;
+
+* **VSCode general tips**:
+  * Use snippets;
+
+* **Git tips**:
+  * Commit a lot, don't push;
+  * Push when you want to publish, finished something;
+  * Generate a changelog;
+
+  
+
+> "Use code snippets for markdown."
+>— DDTry
+
+> "Can I use GenAI to answer customer questions?"
+>— DDThought
+
 
 
 ## Leadership and the Power of Regret: Turning Emotions into Action
