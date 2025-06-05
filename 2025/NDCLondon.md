@@ -105,6 +105,10 @@
 ### _Presented by Scott Hanselman, Scott Hunter
 
 ### Notes
+* **Copilot extensions and agents in VSCode**:
+  * Azure agent/ extension;
+  * Mermaid agent/ extension;
+
 
 
 ## Could a Co-Pilot be an Aircraft Co-Pilot?
