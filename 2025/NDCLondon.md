@@ -83,6 +83,7 @@
 
 
 
+
 ## Leadership and the Power of Regret: Turning Emotions into Action
 ### _Presented by Arthur Doler
 
@@ -107,7 +108,30 @@
 ### Notes
 * **Copilot extensions and agents in VSCode**:
   * Azure agent/ extension;
+     * Regions
+     * Services
+     * Budget
   * Mermaid agent/ extension;
+  * OLLama VSCode extension;
+
+* **Windows Copilot**:
+  * Voice and speakout;
+
+* **Other vendors**:
+  * Google: Gemini Advanced 1,5 Pro with Deep Research;
+
+* **OSS**:
+  * GPT4All (with local docs);
+     * Local or azure dev box
+
+
+> "AI without RAG is BS, With RAG and a good datasource is magic!"
+
+
+
+> "Azure and Mermaid agents in VSCode"
+> — DDLookup
+
 
 
 
