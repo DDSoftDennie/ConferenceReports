@@ -2,11 +2,11 @@
 
 ## Future of AI Panel
 
-**Speaker**: Bob van Luijt - Weaviate, Steve Sewell - Builder.io
+### Speaker: Bob van Luijt - Weaviate, Steve Sewell - Builder.io
 
-**Category**: AI
+### Category: AI
 
-**Notes**:
+### Notes
 
 * AI Agents
 * More code generation
@@ -32,19 +32,20 @@
 * **All current big AI innovations are based on only one research paper**: 
 
 
-**DDIdeas**:
+### DDIdeas
 
-**Links**:
+### Links
+
 * [Attention is all you need](https://arxiv.org/abs/1706.03762)
 
 
 ## Will LLMs really consume the internet?
 
-**Speaker**: Ariel Schulman - Bright Data
+### Speaker: Ariel Schulman - Bright Data
 
-**Category**: AI
+### Category: AI
 
-**Notes**:
+### Notes
 
 * **E.L.I.Z.A.**: 
   * Early chatbot
@@ -58,19 +59,19 @@
     * Agents are bots!
     * Captcha's prevent bots
 
-**DDIdeas**:
+### DDIdeas
 
-**Links**:
+### Links
 
 * [ELIZA](https://en.wikipedia.org/wiki/ELIZA)
 
 ## What is RAG? Demistifying Retrieval Augmented Generation
 
-**Speaker**: Marius Obert - Twilio
+### Speaker: Marius Obert - Twilio
 
-**Category**: AI
+### Category: AI
 
-**Notes**:
+### Notes
 
 * Twilio has AI/RAG, SMS and WhatsApp  solutions
 * **RAG**: Retrieval Augmented Generation
@@ -81,18 +82,19 @@
   * Read PDFs in VSCode
   * Git Graph in VSCode
 
-**DDIdeas**:
+### DDIdeas
 
-**Links**:
+### Links
 
 
 ## Cracking the Culture Code
 
-**Speaker**: Gwen Kolader - Hexaware, Ingrid Tappin - Diverse Leaders in Tech
+### Speaker: Gwen Kolader - Hexaware, Ingrid Tappin - Diverse Leaders in Tech
 
-**Category**: People
+### Category: People
 
-**Notes**:
+### Notes
+
 * **Cultural Intelligence**:
   * Knowledge
   * Understanding intention
@@ -111,18 +113,18 @@
    * Africa
 * **BOOK ALERT**: The Culture Map by Erin Meyer
 
-**DDIdeas**:
+### DDIdeas
 
-**Links**:
+### Links
 
 
 ## Psychological Safety: Building Trust, Accountability and Inclusion
 
-**Speaker**: Bogdan Manta - The Essential Experts, Vanessa Monsegueira - Gorilla, Ingrid Tappin - Diverse Leaders in Tech
+### Speaker: Bogdan Manta - The Essential Experts, Vanessa Monsegueira - Gorilla, Ingrid Tappin - Diverse Leaders in Tech
 
-**Category**: People
+### Category: People
 
-**Notes**:
+### Notes
 
 * **Psychological Safety**:
   * A professional feeling
@@ -148,18 +150,18 @@
   * Healthy conflict
   * Radical candor
 
-**DDIdeas**:
+### DDIdeas
 
-**Links**:
+### Links
 
 
 ## Going green with native: efficient sustainable software
 
-**Speaker**: Vasco Correie Veloso, Johan Hutting
+### Speaker: Vasco Correie Veloso, Johan Hutting
 
-**Category**: Sustainability
+### Category: Sustainability
 
-**Notes**:
+### Notes
 
 * **Hardware is growing, Disk sizes are growing**
   *ex DOOM: 1998 - 2MB, 2006 - 55GB
@@ -168,9 +170,9 @@
   * Less fields in a JSON object = less carbon emission
 * **Caching** data = less traffic = less carbon emission
 
-**DDIdeas**:
+### DDIdeas
 
-**Links**:
+### Links
 
 * [Impact framework](https://if.greensoftware.foundation/)
 * [Cloud Carbon Footprint](https://www.cloudcarbonfootprint.org/)
@@ -179,26 +181,26 @@
 
 ## Code of Conduct. Developing Medical grade software
 
-**Speaker**: Paul-Robert Marcu
+### Speaker: Paul-Robert Marcu
 
-**Category**: Medical
+### Category: Medical
 
-**Notes**:
+### Notes
 
 * QMS: Quality Management System
 
-**DDIdeas**:
+### DDIdeas
 
-**Links**:
+### Links
 
 
 ## How to get clean web data for chatbots and LLMs
 
-**Speaker**: Frantisek Nesvada
+### Speaker: Frantisek Nesvada
 
-**Category**: AI
+### Category: AI
 
-**Notes**:
+### Notes
 
 * **Fetching data**: 
   *  A bot to fetch content from a site
@@ -216,9 +218,9 @@
   * Scrape all the pages
 * **Feed data to LLM**:
 
-**DDIdeas**:
+### DDIdeas
 
-**Links**:
+### Links
 
 * [Get Started with Playwright.NET](https://playwright.dev/dotnet/docs/intro)
 
@@ -226,11 +228,11 @@
 
 ## The Hidden Power of Information Assets: The Role of Documentation in Product Success
 
-**Speaker**: Brittany Ryan
+### Speaker: Brittany Ryan
 
-**Category**: Productivity
+### Category: Productivity
 
-**Notes**:
+### Notes
 
 * Documentation = information assets
 * Portals with different content types
@@ -238,19 +240,21 @@
   * Video
   * Images
 
-**DDIdeas**:
+### DDIdeas
 
 * White label Wordpress product?
 * Documentation for customer sites?
 
+### Links
+
 
 ## Life on the Spectrum: Creating Workplaces Where Neurodivergent Talent Thrives
 
-**Speaker**: Ania Haspronska - Engaged.lab, Sophie Tappin - experience expert, Ingrid Tappin - Diverse Leaders in Tech
+### Speaker: Ania Haspronska - Engaged.lab, Sophie Tappin - experience expert, Ingrid Tappin - Diverse Leaders in Tech
 
-**Category**: People
+### Category: People
 
-**Notes**:
+### Notes
 
 * We live in a **VUCA** world:
   * Volatile
@@ -278,32 +282,32 @@
   * Grades:
     * 4/10 ==> 9/10
 
-  
-**DDIdeas**:
+### DDIdeas:
 
-**Links**:
+
+### Links:
 
 
 ## How Payment Execution works at IKEA
 
-**Speaker**: Lovely Gupta
+### Speaker: Lovely Gupta
 
-**Category**: Digital Money
+### Category: Digital Money
 
-**Notes**:
+### Notes
 
-**DDIdeas**:
+### DDIdeas
 
-**Links**:
+### Links
 
 
 ## How can I trust you? AI and the leap of faith
 
-**Speaker**: Lan Chu
+### Speaker: Lan Chu
 
-**Category**: AI
+### Category: AI
 
-**Notes**:
+### Notes
 
 * In AI, the most important and difficult thing is **EVALUATION**
 * AI is **non-deterministic**:
@@ -325,17 +329,17 @@
 * Human-AI alignment
 
 
-**DDIdeas**:
+### DDIdeas
 
-**Links**:
+### Links
 
 ## Inclusivity in tech, the missing link to great software
 
-**Speaker**: Ramona Domen - Team Rockstars IT
+### Speaker: Ramona Domen - Team Rockstars IT
 
-**Category**: People
+### Category: People
 
-**Notes**:
+### Notes
 
 * **Where it was wrong**:
   * Apple health kit in 2014: Not providing period tracking, besides everything else
@@ -363,19 +367,18 @@
   * Religion
   * Heritage
 
+### DDIdeas
 
-**DDIdeas**:
-
-**Links**:
+### Links
 
 
 ## LLMs can't optimize schedules, but AI can!
 
-**Speaker**: Tom Cools
+### Speaker: Tom Cools
 
-**Category**: AI
+### Category: AI
 
-**Notes**:
+### Notes
 
 * **Planning and operations**:
   * Hospitals
@@ -391,10 +394,10 @@
 * Timefold
   * Scheduling API/SDK
   * Open Source project
-    
-**DDIdeas**:
 
-**Links**:
+### DDIdeas
+
+### Links
 
 
 [Back](Conferenties.md)

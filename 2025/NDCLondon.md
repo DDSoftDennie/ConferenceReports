@@ -1,7 +1,10 @@
 # NDC London 2025
 
 ## AI without the BS, for humans
-### _Presented by Scott Hanselman_
+
+### Speaker: Scott Hanselman
+
+### Category: AI
 
 ### Notes
 
@@ -40,20 +43,32 @@
         * Climate change;
         * Connectivity Issues;
 
-> "Blazor, Smart Components, SLM's & Smart Past to improve accessibility"
-> — DDTry
 
-> "TinaCMS"
-> — DDTry, DDFollow
+### DDIdeas
+
+* Blazor, Smart Components, SLM's & Smart Past to improve accessibility"
+* TinaCMS
+
+### Links
+
 
 ## Develop a Second Brain
-### _Presented by Michelle Bertaina
+
+### Speaker: Michelle Bertaina
+
+### Category: Productivity
 
 ### Notes
 
+### DDIdeas
+
+### Links
 
 ## Beyond The Hype: Every Day, Real World Uses for Copilot
-### _Presented by Rob Conery
+
+### Speaker: Rob Conery
+
+### Category: AI
 
 ### Notes
 
@@ -74,36 +89,57 @@
 * **Custom Instructions**:
   * Custom instructions for a changelog;
   
+### DDIdeas
+* Use snippets for markdown;
+* Can I use GenAI to answer customer questions?"
 
-> "Use code snippets for markdown."
->— DDTry
-
-> "Can I use GenAI to answer customer questions?"
->— DDThought
-
+### Links
 
 
 
 ## Leadership and the Power of Regret: Turning Emotions into Action
-### _Presented by Arthur Doler
+
+### Speaker: Arthur Doler
+
+### Category: People
 
 ### Notes
 
+### DDIdeas
+
+### Links
 
 ## How to become a go-to person
-### _Presented by Hila Fox
+
+### Speaker: Hila Fox
+
+### Category: People
 
 ### Notes
+
+### DDIdeas
+
+### Links
 
 
 ##  Build Trust with your Users Through UX
-### _Presented by Tetiana Gulei
+
+### Speaker: Tetiana Gulei
+
+### Category: UX/UI
 
 ### Notes
 
+### DDIdeas
+
+### Links
+
 
 ## Increased Productivity using AI - A realistic perspective from the Lesser Scott's
-### _Presented by Scott Hanselman, Scott Hunter
+
+### Speaker: Scott Hanselman, Scott Hunter
+
+### Category: AI
 
 ### Notes
 * **Copilot extensions and agents in VSCode**:
@@ -128,22 +164,30 @@
 > "AI without RAG is BS, With RAG and a good datasource is magic!"
 
 
+### DDIdeas
+* "Azure and Mermaid agents in VSCode"
 
-> "Azure and Mermaid agents in VSCode"
-> — DDLookup
-
-
-
+### Links
 
 ## Could a Co-Pilot be an Aircraft Co-Pilot?
-### _Presented by Clifford Agius
+
+### Speaker: Clifford Agius
+
+### Category: AI
 
 ### Notes
 
 * **Airplane companies are already on AI augmentation**
 
+### DDIdeas
+
+### Links
+
 ## The Forgotten AI of Video Games
-### _Presented by Layla Porter
+
+### Speaker: Layla Porter
+
+### Category: AI
 
 ### Notes
 
@@ -164,23 +208,41 @@
   * **Direct AI**: A system that allows for more complex decision making by allowing NPC's to plan their actions based on direct input from the player.
   * **Utility AI**: A system that allows for more complex decision making by allowing NPC's to plan their actions based on utility values.
 
+### DDIdeas
+
 ### Links
 * [Slides](https://bit.ly/forgotten-ai-video-games)
 
 ## Mobile App Architecture: How to Conquer the Giant!
-### _Presented by Heather Downing
+
+### Speaker: Heather Downing
+
+### Category: Mobile
 
 ### Notes
+
+### DDIdeas
+
+### Links
 
 
 ## Design for Developers
-### _Presented by Lex Lofthouse
+### Speaker: Lex Lofthouse
+
+### Category: UX/UI
 
 ### Notes
 
+### DDIdeas
+
+### Links
+
 
 ## Using GPT Visual Capabilities to Solve a Wordle Puzzle
-### _Presented by Jennifer Marsman
+
+### Speaker: Jennifer Marsman
+
+### Category: AI
 
 ### Notes
 * **Using pictures and diagrams in GPT prompts**:
@@ -193,9 +255,17 @@
   * "This is a dog, what is the breed?";
   * "This is a pet, which pet is it?";
 
+### DDIdeas
+
+
+### Links
+
 
 ## The past, present and future of AI for application developers
-### _Presented by Steve Sanderson
+
+### Speaker: Steve Sanderson
+
+### Category: AI
 
 ### Notes
 * **Demo Eliza**:
@@ -217,12 +287,11 @@
   * Smart Components;
   * Smart forms;
 
-> "Blazor Smart Components, Smart Forms, and AI to improve accessibility"
-> — DDTry
+### DDIdeas
 
-> "Dutch title program: 'Donkere Gedachten' (Dark Thoughts) omzetten met AI"
-> — DDLookup
-
+ * "Blazor Smart Components, Smart Forms, and AI to improve accessibility"
+ * "Dutch title program: 'Donkere Gedachten' (Dark Thoughts) omzetten met AI"
+ * "DDLookup: Using AI to enhance data retrieval and lookup processes"
 
 ### Links
 * [Eliza on AI Generation](https://aigeneration.blog/2023/03/05/ai-history-eliza/);
@@ -230,33 +299,58 @@
 * [Steve Sanderson's GitHub](https://github.com/SteveSandersonMS);
 
 ## How I build a ZX Spectrum emulator from scratch using C# and Blazor
-### _Presented by Jimmy Engstrom
+
+### Speaker: Jimmy Engstrom
+
+### Category: Blazor
 
 ### Notes
+
+### DDIdeas
+
+### Links
 
 
 ## Can you trust your (large language) model?
-### _Presented by Jodie Burchell
+### Speaker: Jodie Burchell
+
+### Category: AI
 
 ### Notes
+
 * **Data Leakage**:
   * Assessing the wrong data;
   * When training data is a bucket and test data is a bucket: Data leakage: using the same data for training and testing;
   * Leaking between the buckets;
 * **Right now we can only assess inputs vs outputs**:
   
+### DDIdeas
 
 ### Links
 * [LM Arena](https://lmarena.ai);
 
 ## Open Source, Open Mind: The Cost of Free Software
-### _Presented by Dylan Beattie
+
+### Speaker: Dylan Beattie
+
+### Category: Vision
 
 ### Notes
+
+### DDIdeas
+
+### Links
 
 
 ## Digital Spit-Fire Interface Rage: How to Calm the Savage User
-### _Presented by Dean Schutser
+
+### Speaker: Dean Schutser
+
+### Category: UX/UI
 
 ### Notes
+
+### DDIdeas
+
+### Links
 
