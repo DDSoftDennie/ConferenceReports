@@ -1,7 +1,7 @@
 # PyCon and PyData 2025 (Virtual attendance)
 
 ## Are LLMs the answer to all our problems? 
-### _Presented by Dr. Maria Börner_
+### Speaker: Dr. Maria Börner_
 
 ### Notes
 
@@ -25,12 +25,14 @@
     * 1,000 text generation requests: 5g CO₂
     * 1,000 image generation requests: 200g CO₂
 
----
+### DDIdeas
+
+### Links
 
 ## The aesthetics of AI: from cyberpunk to fascism
-### _Presented by Laura Summers_
+### Speaker: Laura Summers
 
-### _Key Takeaways:_
+### Notes
 
 * **Aesthetic Foundations**:
   * Definition: The philosophy of beauty and goodness
@@ -58,11 +60,16 @@
 * **Physical Manifestations**:
   * Datacenter design elements: Futurism, Brutalism, and Modernism
 
----
+### DDIdeas
+
+### Links
 
 ## LLM Inference Arithmetics: the Theory of Model Serving
-### _Presented by Luca Baggi_
-### _Key Takeaways:_
+
+### Speaker: Luca Baggi
+
+### Notes
+
 
 * **Training vs Inference Paradigms**:
   * Training: Parallel processing architecture
@@ -92,20 +99,26 @@
   * Processing mode selection (parallel vs serial)
   * Tool selection based on specific requirements
 
----
+### DDIdeas
+
+### Links
 
 ## Inclusive Data for 1.3 Billion: Designing Accessible Visualizations
-### _Presented by Pavithra Eswaramoorthy_
+
+### Speaker: Pavithra Eswaramoorthy
 
 ### Notes
 
 - A line plot: add texture to the line, increase line width, block interactions.
 - ALT Text: A 4 level framework to describe the visual/ plot.
 
----
+### DDIdeas
+
+### Links
 
 ## Driving Trust and Addressing Ethical Challenges in Transportation through Explainable AI
-### _Presented by Natalie Beyer_
+
+### Speaker: Natalie Beyer
 
 ### Notes
 
@@ -117,10 +130,12 @@
   * Does simplifying complex systems for explanation risk inaccuracy?
   * Can we be confident that all relevant factors are being considered?
 
----
+### DDIdeas
+
+### Links
 
 ## Information Retrieval Without Feeling Lucky: The Art and Science of Search
-### _Presented by Anja Pilz_
+### Speaker: Anja Pilz
 
 ### Notes
 
@@ -145,10 +160,13 @@
   * Query Expansion: Add terms to increase coverage
   * Key Difference: Relaxation reduces constraints while expansion adds alternatives
 
----
+### DDIdeas
+
+### Links
 
 ## Reasonable AI
-### _Presented by Kristian Kersting_
+
+### Speaker: Kristian Kersting
 
 ### Notes
 
@@ -178,10 +196,13 @@
   * Ontological logic for ethical decision-making
   * Restrictions needed for certain AI applications (e.g., image generation)
 
----
+### DDIdeas
+
+### Links
 
 ## AI Coding agent - what is it, how it works and is it good for developers
-### _Presented by Cheuk Ting Ho_
+
+### Speaker: Cheuk Ting Ho
 
 ### Notes
 
@@ -212,10 +233,13 @@
   * Data privacy
   * Data is send through LLM's
 
----
+### DDIdeas
+
+### Links
 
 ## Beyond Agents: What AI Strategy Really Needs in 2025
-### _Presented by Alexander CS Hendorf_
+
+### Speaker: Alexander CS Hendorf
 
 ### Notes
 
@@ -244,3 +268,7 @@
 * **Strategic Pattern: Convergence**:
   * AI no longer siloed in domains
   * Innovation happens in intersections of domains
+
+### DDIdeas
+
+### Links
