@@ -1,6 +1,6 @@
 | Category | Number of Talks |
 |----------|-----------------|
-| AI | 6 |
+| AI | 7 |
 | People | 3 |
 | Sustainability | 1 |
 | Medical | 1 |
