@@ -1,5 +1,7 @@
 # Mermaid diagram for NDCLondon
 
+- [Back](../NDCLondon.md)
+
 ## Beyond The Hype: Every Day, Real World Uses for Copilot
 
 ```mermaid

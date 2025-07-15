@@ -1,5 +1,10 @@
 # DevWorld
 
+- [Stats](Stats.md/DevWorld.md)
+- [Mermaids](Mermaids.md/DevWorld.md)
+- [Back](../README.md)
+
+
 ## Future of AI Panel
 
 ### Speaker: Bob van Luijt - Weaviate, Steve Sewell - Builder.io

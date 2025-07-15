@@ -1,5 +1,9 @@
 # NDC London 2025
 
+- [Stats](Stats.md/NDCLondon.md)
+- [Mermaids](Mermaids.md/NDCLondon.md)
+- [Back](../README.md)
+
 ## AI without the BS, for humans
 
 ### Speaker: Scott Hanselman
