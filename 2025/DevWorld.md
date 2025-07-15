@@ -146,7 +146,7 @@
   * Repetition
   * Transparency
 * **How do we disagree?**
-  * so, on a way that eveyone feels safe
+  * so, on a way that everyone feels safe
   * Healthy conflict
   * Radical candor
 
@@ -206,7 +206,7 @@
   *  A bot to fetch content from a site
   *  **Playwright**: A tool to fetch data from a site
     * Open browser
-    * Do brower stuff in code
+    * Do browser stuff in code
     * Can be used to fetch data and web scrape
     * Get HTML
     * Playwright.net exists!
@@ -274,7 +274,7 @@
     * Link this with business KPIs!
     * and high grades at school!
 * Sophie at new school:
-  * Personal accomodation
+  * Personal accommodation
     * ex: Work/draw during explanations
   * Empathy
   * Giving needs
@@ -389,7 +389,7 @@
 * Challenges with scheduling:
   * Context Windows
   * can't handle problem space size
-* Artificial Intelligence in a broad sence
+* Artificial Intelligence in a broad sense
   * Mathematical optimization
 * Timefold
   * Scheduling API/SDK
@@ -398,6 +398,9 @@
 ### DDIdeas
 
 ### Links
+
+
+
 
 
 [Back](Conferenties.md)
